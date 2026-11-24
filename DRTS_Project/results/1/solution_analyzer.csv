@@ -1,0 +1,3 @@
+task,component,component_schedulable,core_schedulable,task_schedulable
+Task_0,Camera_Sensor,True,True,True
+Task_1,Camera_Sensor,True,True,True

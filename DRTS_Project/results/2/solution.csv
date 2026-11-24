@@ -1,0 +1,10 @@
+task_name,component_id,task_schedulable,avg_response_time,max_response_time,component_schedulable
+Task_2,Camera_Sensor,True,3.341398,6.258065,True
+Task_0,Camera_Sensor,True,8.555876,14.145161,True
+Task_1,Camera_Sensor,True,55.147849,99.016129,True
+Task_3,Camera_Sensor,True,92.941244,185.516129,True
+Task_4,Image_Processor,True,58.397465,65.161290,True
+Task_5,Image_Processor,True,78.253072,83.080645,True
+Task_6,Image_Processor,True,161.940860,321.000000,True
+Task_7,Image_Processor,True,115.576037,180.258065,True
+Task_8,Image_Processor,True,18.573445,36.887097,True
